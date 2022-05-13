@@ -5,8 +5,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>Specify Alternate Sources for audio Element in HTML</title>
-</head>
+    </head>
 <body>
     <audio controls="controls">
         <source src="http://giss.tv:8000/guerrillaradio.mp3" type="audio/mpeg">
