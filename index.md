@@ -3,7 +3,22 @@ title: /
 layout: home
 permalink: /
 ---
+# La radio guerrilla
 
-# Lorem ipsum
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+   
+</head>
+<body>
+	<audio controls="controls" src="http://giss.tv:8000/guerrillaradio.ogg">
+      
+    </audio>
+</body>
+</html> 
+
+
+   <a href="http://giss.tv:8000/guerrillaradio.ogg">navegadores guerrilleros</a>     
