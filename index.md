@@ -1,8 +1,4 @@
----
-title: /
-layout: home
-permalink: /
----
+
 # La radio guerrilla
 
 
