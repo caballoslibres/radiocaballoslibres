@@ -1,23 +1,12 @@
 
-# La radio guerrillas
+# La radio guerrilla
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <title>Embedding Audio into an HTML Page</title>
-</head>
-<body>
-	<audio controls="controls" src="http://giss.tv:8000/guerrillaradio.ogg">
-        Your browser does not support the HTML5 audio element.
-    </audio>
-</body>
-</html> 
+
 <p>
 <p>   
-   <a href="http://giss.tv:8000/guerrillaradio.ogg">navegadores guerrilleros</a>     
+   <a href="http://giss.tv:8000/guerrillaradio.ogg">navegador guerrillero</a>     
 <p>
 <p>   
-   <a href="https://guerrillaradio.github.io/prendeunaradio/">navegador blanco</a>   
+   <a href="https://guerrillaradio.github.io/prendeunaradio/">navegador pirulo</a>   
    
    
