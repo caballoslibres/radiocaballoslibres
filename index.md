@@ -10,6 +10,6 @@
    <a href="https://guerrillaradio.github.io/prendeunaradio/">navegador tradicional</a>   
 <p>
 <p>
- 107.7 FM Punta de lobos y alrededores
+   107.7 FM Punta de lobos y alrededores
    
    
