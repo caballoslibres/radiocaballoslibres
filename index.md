@@ -13,7 +13,7 @@
    107.7 FM Punta de lobos y alrededores
  <p>
  <p>
-    Miercoles 27 ¬ Cesar Parada ¬¬ 12 del medio dia hasta las 4 PM ¬¬ 
+    Miercoles 27 ¬ Cesar Parada ¬¬ 12 M - 4 PM ¬¬ 
    
    
    
