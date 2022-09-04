@@ -1,5 +1,12 @@
 
-![gr logo web](https://user-images.githubusercontent.com/104956986/188300952-e3bb7715-be9e-453a-a2de-83d50a1e9c67.png)
+
+
+                                                           
+ ._   _.   _|  o   _    _         _   ._  ._  o  |  |   _. 
+ |   (_|  (_|  |  (_)  (_|  |_|  (/_  |   |   |  |  |  (_| 
+                        _|                                 
+
+
 
 
 
