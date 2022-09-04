@@ -11,12 +11,12 @@ Radio
 #                                                                         
 <p>
 <p>
-<a href="http://giss.tv:8001/guerrillaradio.ogg">opcion 1</a>
+<a href="http://giss.tv:8001/guerrillaradio.ogg"><div><font color="#1ee907">opcion 1</font></div></a>
 <p>
 <p>
-<a href="https://guerrillaradio.github.io/prendelaradio/">opcion 2</a>
+<a href="https://guerrillaradio.github.io/prendelaradio/"><div><font color="#1ee907">opcion 2</font></div></a>
 <p>
 <p>
-107.7 FM Punta de lobos y alrededores
+<div><font color="#1ee907">107.7 FM Punta de lobos y alrededores</font></div>
 <p>
 <p>
