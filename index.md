@@ -1,5 +1,6 @@
 
-![radioguerrilla logo](https://user-images.githubusercontent.com/104956986/188300801-f9aa3df6-6b10-4b7b-9c0a-6232fe5c5308.png)
+![gr logo web](https://user-images.githubusercontent.com/104956986/188300952-e3bb7715-be9e-453a-a2de-83d50a1e9c67.png)
+
 
 
 
