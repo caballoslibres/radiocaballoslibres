@@ -9,5 +9,3 @@
 <p>
 <div><font color="#ff1700">REFERENTE</font></div><div></div><div><font color="#ff1700"> </font><font color="#ff2d00"> </font></div>
 <a href="https://omegalfa.es/downloadfile.php?file=libros/para-una-guerrilla-semiologica.pdf"><div><font color="#ff1700">Umberto Eco - Para una Guerrilla Semiológica</font></div><div></div><div><font color="#ff1700"> </font><font color="#ff2d00"> </font></div></a>
-  
-
