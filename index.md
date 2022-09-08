@@ -1,4 +1,4 @@
-![gr](gr.png)
+![gr](gr.png)           <a href="http://giss.tv:8001/guerrillaradio.ogg">opcion 1</a>
                                     
 <p>
 <p>
