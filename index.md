@@ -18,6 +18,6 @@
 107.7 FM Punta de lobos y alrededores
 <p>
 <p>
-<a href="https://duckduckgo.com/?q=omegalfa.es+guerrilla+semiologica&t=newext&atb=v264-1">Umberto Eco - Para una Guerrilla semiológica</a>
+<a href="https://omegalfa.es/downloadfile.php?file=libros/para-una-guerrilla-semiologica.pdf">Umberto Eco - Para una Guerrilla semiológica</a>
   
 
