@@ -7,7 +7,7 @@
 <p>107.7 FM Punta de lobos y alrededores 
 <p>
 <p>
-Referentes  
+<div><font color="#ff0000">Referente</font></div><div></div><div><font color="#ff1700"> </font><font color="#ff2d00"> </font></div>
 <a href="https://omegalfa.es/downloadfile.php?file=libros/para-una-guerrilla-semiologica.pdf">Umberto Eco - Para una Guerrilla semiológica</a>
   
 
