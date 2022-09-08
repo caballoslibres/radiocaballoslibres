@@ -1,4 +1,4 @@
-![gr](https://user-images.githubusercontent.com/104956986/189002049-1673ff0c-ec25-429b-bc10-aeef9eb81cb1.png)
+![gr](gr.png)
                      guerrilla
 ██████╗  █████╗ ██████╗ ██╗ ██████╗ 
 ██╔══██╗██╔══██╗██╔══██╗██║██╔═══██╗
