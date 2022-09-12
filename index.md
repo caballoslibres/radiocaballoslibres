@@ -12,7 +12,3 @@
 
 <p>
 <p>
-GuerrillaRadio
-          Showcase
-             Deejay set Dj L    Banda Lobos Música
-      Coordenadas DM
