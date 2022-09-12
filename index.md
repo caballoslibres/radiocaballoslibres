@@ -13,7 +13,7 @@
 <p>
 <p>
 GuerrillaRadio
-          Show case
+          Showcase
 <p>
               Deejay set Dj L    Banda Lobos Música
 <p>
