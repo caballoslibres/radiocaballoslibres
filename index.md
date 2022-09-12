@@ -13,10 +13,9 @@
 <p>
 <p>
 GuerrillaRadio
-Show case
-
-Dj set Deejay L
-Lobos Música
-
-
-Coordenadas DM
+          Show case
+<p>
+              Deejay set Dj L    Banda Lobos Música
+<p>
+<p>
+        Coordenadas DM
