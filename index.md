@@ -9,5 +9,5 @@
 <p>
 <div><font color="#ff1700">REFERENTES</font></div><div></div><div><font color="#ff1700"> </font><font color="#ff2d00"> </font></div>
 <a href="https://omegalfa.es/downloadfile.php?file=libros/para-una-guerrilla-semiologica.pdf"><div><font color="#ff1700">Umberto Eco - Para una Guerrilla Semiológica</font></div><div></div><div><font color="#ff1700"> </font><font color="#ff2d00"> </font></div></a>
-<a href="https://es.b-ok.global/book/907840/9e06eb">Jean Baudrillard - Simulacra & Simulation</a>
- <div><font color="#ff0000"><a href="https://es.b-ok.global/book/907840/9e06eb">Jean Baudrillard - Simulacra & Simulation</a></font></div>
+<div><font color="#ff1700"></font></div><div></div><div><font color="#ff1700"> </font><font color="#ff2d00"> </font></div>
+<a href="https://es.b-ok.global/book/907840/9e06eb"><div><font color="#ff1700">Jean Baudrillard - Simulacra & Simulation</font></div><div></div><div><font color="#ff1700"> </font><font color="#ff2d00"> </font></div></a>
