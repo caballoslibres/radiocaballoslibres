@@ -11,4 +11,4 @@
 <a href="https://omegalfa.es/downloadfile.php?file=libros/para-una-guerrilla-semiologica.pdf"><div><font color="#ff1700">Umberto Eco - Para una Guerrilla Semiológica</font></div><div></div><div><font color="#ff1700"> </font><font color="#ff2d00"> </font></div></a>
 <p>
 <p>
-<div><font color="#ff0000"><a href="https://es.b-ok.global/book/907840/9e06eb"></font></div>Jean Baudrillard - Simulacra & Simulation
+<div><font color="#ff0000"><a href="https://es.b-ok.global/book/907840/9e06eb">Jean Baudrillard - Simulacra & Simulation
