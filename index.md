@@ -4,7 +4,7 @@
                                     
 <p>
 <p>RADIO ONLINE <a href="http://giss.tv:8001/guerrillaradio.ogg">opcion 1</a>  <a href="https://guerrillaradio.github.io/prendelaradio/">opcion 2</a>
-<p>107.7 FM Pedro de Valdivia Norte y alrededores 
+<p>107.7 FM 
 <p>
 <p>
 <div><font color="#ff1700">REFERENTES</font></div><div></div><div><font color="#ff1700"> </font><font color="#ff2d00"> </font></div>
