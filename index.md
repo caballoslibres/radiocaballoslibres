@@ -13,9 +13,7 @@
 <a href="https://epdf.tips/cultura-y-simulacro-spanish-edition.html"><div><font color="#ff1700">Jean Baudrillard - Simulacra & Simulation</font></div><div></div><div><font color="#ff1700"> </font><font color="#ff2d00"> </font></div></a>
 <div><font color="#ff1700"></font></div><div></div><div><font color="#ff1700"> </font><font color="#ff2d00"> </font></div>
 <a href="https://ia800605.us.archive.org/15/items/GuerillaOpenAccessManifesto/Goamjuly2008.pdf"><div><font color="#ff1700">Aaron Swartz - Guerrilla Open Access Manifiesto</font></div><div></div><div><font color="#ff1700"> </font><font color="#ff2d00"> </font></div></a>
-Banksy/Canserbero/
 
-<a
 href="https://www.banksy.blog/"><div><font color="#ff1700">Banksy</font></div><div></div><div><font color="#ff1700"> </font><font color="#ff2d00"> </font></div></a>
 <div><font color="#ff1700"></font></div><div></div><div><font color="#ff1700"> </font><font color="#ff2d00"> </font></div>
 <a
