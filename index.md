@@ -1,5 +1,5 @@
               
-![gr](GR Palestina.png) 
+![gr](grps.png) 
           
                                     
 <p>
