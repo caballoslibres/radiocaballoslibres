@@ -17,6 +17,6 @@
 href="https://www.banksy.blog/"><div><font color="#ff1700">Banksy</font></div><div></div><div><font color="#ff1700"> </font><font color="#ff2d00"> </font></div></a>
 <div><font color="#ff1700"></font></div><div></div><div><font color="#ff1700"> </font><font color="#ff2d00"> </font></div>
 <a
-href="https://youtube.com/playlist?list=PLAw1LTEiMHNo0-LR7C6KCJJBgp2OKNcq9&si=BMa0cJHabHi7jsZe"><div><font color="#ff1700">Canserbero</font></div><div></div><div><font color="#ff1700"> </font><font color="#ff2d00"> </font></div></a>
+href="https://www.youtube.com/watch?v=Oav8rQ1RX88)"><div><font color="#ff1700">Canserbero</font></div><div></div><div><font color="#ff1700"> </font><font color="#ff2d00"> </font></div></a>
 <a
 href="https://archive.org/details/la-subversion-socratica-socrates-subersivo"><div><font color="#ff1700">Socrates</font></div><div></div><div><font color="#ff1700"> </font><font color="#ff2d00"> </font></div></a>
