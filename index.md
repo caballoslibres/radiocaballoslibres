@@ -1,5 +1,5 @@
               
-![gr](gr(1).png) 
+![gr](Logo Caballoslibres.jpg) 
           
                                     
 <p>
@@ -7,14 +7,14 @@
 <p>107.7 FM  
 <p>
 <p>
-<div><font color="#ff1700">REFERENTES</font></div><div></div><div><font color="#ff1700"> </font><font color="#ff2d00"> </font></div>
-<a href="https://omegalfa.es/downloadfile.php?file=libros/para-una-guerrilla-semiologica.pdf"><div><font color="#ff1700">Umberto Eco - Para una Guerrilla Semiológica</font></div><div></div><div><font color="#ff1700"> </font><font color="#ff2d00"> </font></div></a>
+<div><font color="#ff1700">LINKS</font></div><div></div><div><font color="#ff1700"> </font><font color="#ff2d00"> </font></div>
+<a href="https://www.instagram.com/caballoslibresenpichilemu/"><div><font color="#ff1700">Instagram</font></div><div></div><div><font color="#ff1700"> </font><font color="#ff2d00"> </font></div></a>
 <div><font color="#ff1700"></font></div><div></div><div><font color="#ff1700"> </font><font color="#ff2d00"> </font></div>
-<a href="https://annas-archive.org/md5/cbd7ef9269c23c58e1c55f7258a304cc"><div><font color="#ff1700">Jean Baudrillard - Simulacra & Simulation</font></div><div></div><div><font color="#ff1700"> </font><font color="#ff2d00"> </font></div></a>
+<a href="https://www.change.org/p/no-m%C3%A1s-cabritas-en-pichilemu?fbclid=PAZXh0bgNhZW0CMTEAAaZsyPXENhmk9-ZIhP4e-iuu945cDpHQS3T_kpi6qImBfT915TsEzpW92Lg_aem_tNX5FitQ-5y3Wbikig5O0A"><div><font color="#ff1700">Firma acá</font></div><div></div><div><font color="#ff1700"> </font><font color="#ff2d00"> </font></div></a>
 <div><font color="#ff1700"></font></div><div></div><div><font color="#ff1700"> </font><font color="#ff2d00"> </font></div>
-<a href="https://ia800605.us.archive.org/15/items/GuerillaOpenAccessManifesto/Goamjuly2008.pdf"><div><font color="#ff1700">Aaron Swartz - Guerrilla Open Access Manifesto</font></div><div></div><div><font color="#ff1700"> </font><font color="#ff2d00"> </font></div>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScj9KdH29b1wEXGmC9APiJ_bkkUbKd1RXl3OfTtRPX9zyfjuw/viewform?fbclid=PAZXh0bgNhZW0CMTEAAabSC3u1WKKb02CR5xgDI7gxpRHyvVgExD4GwMALwea6iE5aIIJB7PCIcfc_aem_X_oH7aD_qclrI5Lx2HQmeQ"><div><font color="#ff1700">Formulario colaboradores</font></div><div></div><div><font color="#ff1700"> </font><font color="#ff2d00"> </font></div>
 <a
-href="https://www.banksy.blog/"><div><font color="#ff1700">Banksy</font></div><div></div><div><font color="#ff1700"> </font><font color="#ff2d00"> </font></div></a>
+href="https://drive.google.com/drive/folders/1A5BRIxtuxLkoIao5-2ik840QNujUlm57?fbclid=PAZXh0bgNhZW0CMTEAAaaGsLctaYqK8fN3-vJgvB5wt4SJzPxTwc1meEaV0BIhnzfS7x5dsI70LK0_aem_4vdx7L3MB_yU-rA-wia_Zg"><div><font color="#ff1700">Para activismo</font></div><div></div><div><font color="#ff1700"> </font><font color="#ff2d00"> </font></div></a>
 <div><font color="#ff1700"></font></div><div></div><div><font color="#ff1700"> </font><font color="#ff2d00"> </font></div>
 <a
 href="https://archive.org/details/canserbero-enfermo-en-vivo-desde-hermosillo"><div><font color="#ff1700">Canserbero</font></div><div></div><div><font color="#ff1700"> </font><font color="#ff2d00"> </font></div></a>
