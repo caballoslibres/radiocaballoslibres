@@ -1,5 +1,5 @@
               
-![](Logo Clp eliptica (1).png          
+![](Logo Clp eliptica (1).png)          
 
 <p>                                    
 <p>RADIO CABALLOS LIBRE 
@@ -7,7 +7,6 @@
 </p>radio 107.7 FM  
 <p>
 <p> 
-<p>
 <br>
 <div><font color="#000000">LINKS</font></div><div></div><div><font color="#000000"> </font><font color="#ff2d00"> </font></div>
 <a href="https://www.instagram.com/caballoslibresenpichilemu/"><div><font color="#000000">Instagram</font></div><div></div><div><font color="#000000"> </font><font color="#ff2d00"> </font></div></a>
