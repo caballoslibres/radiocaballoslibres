@@ -2,12 +2,14 @@
 ![](https://github.com/caballoslibres/radiocaballoslibres/blob/master/Logo%20Clp%20eliptica%20(1).png)
           
                                     
-<p>
 <p>RADIO CABALLOS LIBRES 
-<p>Online</p><a href="http://giss.tv:8001/guerrillaradio.ogg">opcion 1</a>  <a href="https://caballoslibres.github.io/CLP-radio/">opcion 2</a>
-<p>107.7 FM  
+<p><br>online <a href="http://giss.tv:8001/guerrillaradio.ogg">señal 1</a>    <a href="https://caballoslibres.github.io/CLP-radio/">señal 2</a>
+</p>radio 107.7 FM  
 <p>
 <p>
+<p> 
+<p>
+<br>
 <div><font color="#000000">LINKS</font></div><div></div><div><font color="#000000"> </font><font color="#ff2d00"> </font></div>
 <a href="https://www.instagram.com/caballoslibresenpichilemu/"><div><font color="#000000">Instagram</font></div><div></div><div><font color="#000000"> </font><font color="#ff2d00"> </font></div></a>
 <div><font color="#000000"></font></div><div></div><div><font color="#000000"> </font><font color="#ff2d00"> </font></div>
