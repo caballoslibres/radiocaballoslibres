@@ -2,7 +2,7 @@
 ![](Logo Clp eliptica (1).png)          
                                  
 <p>RADIO CABALLOS LIBRES 
-<p><br>online    <a href="http://giss.tv:8001/guerrillaradio.ogg">señal 1</a>  <a href="https://caballoslibres.github.io/CLP-radio/">señal 2</a>
+<p><br>online    <a href="http://giss.tv:8001/guerrillaradio.ogg">señal 1</a>  <a href="https://caballoslibres.github.io/caballoslibresradio/">señal 2</a>
 </p>radio 107.7 FM  
 <p>
 <p> 
