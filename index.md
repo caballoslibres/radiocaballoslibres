@@ -1,5 +1,5 @@
               
-![](Logo Clp eliptica (1).png)
+![](https://github.com/caballoslibres/radiocaballoslibres/blob/master/Logo%20Clp%20eliptica%20(1).png)
           
                                     
 <p>
