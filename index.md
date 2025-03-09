@@ -1,5 +1,5 @@
               
-![](https://github.com/caballoslibres/radiocaballoslibres/blob/master/Logo%20Caballoslibres.jpg)
+![](https://github.com/caballoslibres/radiocaballoslibres/blob/master/Logo%20Caballoslibres%20100x100.png)
           
                                     
 <p>
