@@ -4,7 +4,7 @@
                                     
 <p>
 <p>RADIO CABALLOS LIBRES 
-<a href="http://giss.tv:8001/guerrillaradio.ogg">opcion 1</a>  <a href="https://caballoslibres.github.io/CLP-radio/">opcion 2</a>
+<p></p><a href="http://giss.tv:8001/guerrillaradio.ogg">opcion 1</a>  <a href="https://caballoslibres.github.io/CLP-radio/">opcion 2</a>
 <p>107.7 FM  
 <p>
 <p>
