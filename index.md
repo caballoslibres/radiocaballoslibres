@@ -17,6 +17,6 @@
 href="https://drive.google.com/drive/folders/1A5BRIxtuxLkoIao5-2ik840QNujUlm57?fbclid=PAZXh0bgNhZW0CMTEAAaaGsLctaYqK8fN3-vJgvB5wt4SJzPxTwc1meEaV0BIhnzfS7x5dsI70LK0_aem_4vdx7L3MB_yU-rA-wia_Zg"><div><font color="#ff1700">Para activismo</font></div><div></div><div><font color="#ff1700"> </font><font color="#ff2d00"> </font></div></a>
 <div><font color="#ff1700"></font></div><div></div><div><font color="#ff1700"> </font><font color="#ff2d00"> </font></div>
 <a
-href="https://archive.org/details/canserbero-enfermo-en-vivo-desde-hermosillo"><div><font color="#ff1700">Canserbero</font></div><div></div><div><font color="#ff1700"> </font><font color="#ff2d00"> </font></div></a>
+href="https://www.youtube.com/watch?v=Ph8-ZrRNi48"><div><font color="#ff1700">Bruselas sustituye los carruajes de caballos por su versión eléctrica</font></div><div></div><div><font color="#ff1700"> </font><font color="#ff2d00"> </font></div></a>
 <a
-href="https://archive.org/details/la-subversion-socratica-socrates-subersivo"><div><font color="#ff1700">Socrates</font></div><div></div><div><font color="#ff1700"> </font><font color="#ff2d00"> </font></div></a>
+href="https://www.youtube.com/shorts/qgrFNKcTIvM"><div><font color="#ff1700">Cartagena iniciará proceso para reemplazar coches de caballos por vehículos eléctricos</font></div><div></div><div><font color="#ff1700"> </font><font color="#ff2d00"> </font></div></a>
