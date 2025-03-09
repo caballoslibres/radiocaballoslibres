@@ -1,5 +1,5 @@
               
-![gr] (Logo Caballoslibres.jpg)
+![gr](Logo Caballoslibres.jpg)
           
                                     
 <p>
